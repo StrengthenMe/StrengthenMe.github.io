@@ -1,2 +1,4 @@
-# StrengthenMe.github.io
-个人简历
+# eyric.github.io
+个人博客 & 简历
+
+blog: http://blog.wein.tech
